@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/esperanto/static/css/main.fd8ef3b2.css",
-    "main.js": "/esperanto/static/js/main.43a99c97.js",
+    "main.css": "/esperanto/static/css/main.21377e84.css",
+    "main.js": "/esperanto/static/js/main.4fc0067a.js",
     "index.html": "/esperanto/index.html",
-    "main.fd8ef3b2.css.map": "/esperanto/static/css/main.fd8ef3b2.css.map",
-    "main.43a99c97.js.map": "/esperanto/static/js/main.43a99c97.js.map"
+    "main.21377e84.css.map": "/esperanto/static/css/main.21377e84.css.map",
+    "main.4fc0067a.js.map": "/esperanto/static/js/main.4fc0067a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd8ef3b2.css",
-    "static/js/main.43a99c97.js"
+    "static/css/main.21377e84.css",
+    "static/js/main.4fc0067a.js"
   ]
 }
