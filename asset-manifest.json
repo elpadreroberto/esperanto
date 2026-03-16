@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/esperanto/static/css/main.12c33efc.css",
     "main.js": "/esperanto/static/js/main.4f41fdf3.js",
     "index.html": "/esperanto/index.html",
+    "main.12c33efc.css.map": "/esperanto/static/css/main.12c33efc.css.map",
     "main.4f41fdf3.js.map": "/esperanto/static/js/main.4f41fdf3.js.map"
   },
   "entrypoints": [
+    "static/css/main.12c33efc.css",
     "static/js/main.4f41fdf3.js"
   ]
 }
